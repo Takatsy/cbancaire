@@ -37,7 +37,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+<<<<<<< HEAD
   <!-- Google Tag Manager -->
+=======
+<!-- Google Tag Manager -->
+>>>>>>> cc1e93c8096ab69e441e1606b9ce629f9c158c66
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -51,8 +55,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7CJF5LX"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> cc1e93c8096ab69e441e1606b9ce629f9c158c66
   <!-- ======= Header ======= -->
+
   <header id="header" class="header fixed-top d-flex align-items-center">
 
     <div class="d-flex align-items-center justify-content-between">
